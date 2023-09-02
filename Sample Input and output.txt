@@ -1,0 +1,23 @@
+Sample Input: 
+
+sentences = [
+    "1. Definitely share your feedback in the comment section.",
+    "2. So even if it's a big video, I will clearly mention all the products.",
+    "3. I was waiting for my bag."
+]
+____________________________________________________________________________________________________________________________________________
+
+
+Output:
+
+English Sentence: 1. Definitely share your feedback in the comment section.
+Hindi Translation: 1.. Definitely साझा आपका feedback में वह comment section.
+Hinglish Transliteration: 1.. Definitely sajha aapaka feedback men vah comment section.
+
+English Sentence: 2. So even if it's a big video, I will clearly mention all the products.
+Hindi Translation: 2 तो यहां तक यदि यह है एक बड़ा video, आई होगा clearly mention सभी वह products.
+Hinglish Transliteration: 2 to yahan tak yadi yah hae ek bada video, aae hoga clearly mention sabhee vah products.
+
+English Sentence: 3. I was waiting for my bag.
+Hindi Translation: 3 आई था waiting के लिए मेरा बैग.
+Hinglish Transliteration: 3 aae tha waiting ke lie mera baega.
